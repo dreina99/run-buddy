@@ -12,3 +12,5 @@ https://dreina99.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Devin Reina
+
+### ©️2019 Run Buddy, Inc
